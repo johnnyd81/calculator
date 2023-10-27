@@ -13,7 +13,7 @@ Open command prompt / terminal for the project folder and then you can run:
 #### npm install
 This will install the node dependencies.
 
-#### npm start
+#### npm run dev
 Runs the app in the development mode.
-Open http://localhost:3000 to view it in the browser.
+Open http://127.0.0.1:5173/ to view it in the browser.
 
