@@ -1,8 +1,19 @@
-# React + Vite
+# Pocket Calculator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple calculator built using react.js.
 
-Currently, two official plugins are available:
+![image](https://github.com/johnnyd81/calculator/assets/95863021/869aef9d-daac-4b40-aa11-6b1bb52d82a2)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Running the Code Locally
+Clone / Download the project to your computer.
+
+### Start the code
+Open command prompt / terminal for the project folder and then you can run:
+
+#### npm install
+This will install the node dependencies.
+
+#### npm run dev
+Runs the app in the development mode.
+Open http://127.0.0.1:5173/ to view it in the browser.
+
