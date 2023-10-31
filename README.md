@@ -2,6 +2,8 @@
 
 A simple calculator built using react.js.
 
+![image](https://github.com/johnnyd81/calculator/assets/95863021/5525888e-41fd-4bec-becd-e72e448ce18f)
+
 ## Running the Code Locally
 Clone / Download the project to your computer.
 
