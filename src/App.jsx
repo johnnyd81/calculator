@@ -1,6 +1,7 @@
 import { useState } from "react";
 import Calculator from "./components/Calculator";
 
+//by looping over the array using map a button can be created from each array element of the btns array
 const btns = [
   "AC",
   "DEL",
@@ -25,6 +26,9 @@ const btns = [
 function App() {
   const [result, setResult] = useState("");
 
+  //the taskHandler function describes what each button needs to do
+  //a normal number button just has to render the value of that button 
+  //operation buttons like AC, DEL etc. has to be logically assigned
   const taskHandler = (value) => {
     if (value === "AC") {
       setResult("");
