@@ -1,6 +1,6 @@
 # Pocket Calculator
 
-A simple calculator built using react.js.
+A simple pocket calculator built using the javaScript library react.js.
 
 ![image](https://github.com/johnnyd81/calculator/assets/95863021/5525888e-41fd-4bec-becd-e72e448ce18f)
 
