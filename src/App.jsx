@@ -1,7 +1,7 @@
 import { useState } from "react";
 import Calculator from "./components/Calculator";
 
-//by looping over the array using map a button can be created from each array element of the btns array
+//by looping over the btns array using map a button can be created from each array element of the btns array
 const btns = [
   "AC",
   "DEL",
