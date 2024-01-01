@@ -30,6 +30,7 @@ function App() {
   //a normal number button just has to render the value of that button 
   //operation buttons like AC, DEL etc. has to be logically assigned
   const taskHandler = (value) => {
+    //clears the content of the calculator display
     if (value === "AC") {
       setResult("");
     } else if (value === "DEL") {
