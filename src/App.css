@@ -9,7 +9,7 @@ body {
   background-color: rgb(163, 155, 155);
 }
  /*
-  creates the calculator container
+  creates the calculator container using css grid
 */
 .calc-container {
   display: grid;
