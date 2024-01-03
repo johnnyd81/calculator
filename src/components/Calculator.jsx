@@ -3,7 +3,7 @@ import Button from "./Button";
 import ScreenDisplay from "./ScreenDisplay";
 
 const Calculator = ({ btns, handler, result }) => {
-  //render the btns array by using the Button component
+  //render each button in the btns array by using the Button component
   const renderedButtons = btns.map((btn, index) => {
     return (
       <Button
