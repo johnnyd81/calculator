@@ -34,7 +34,7 @@ function App() {
     if (value === "AC") {
       setResult("");
     } else if (value === "DEL") {
-      //by using the slice array method the last digit of the onscreen numbers can be deleted
+      //by using the slice array method the final digit of the onscreen numbers can be deleted
       setResult(result ? Array.from(result).slice(0, -1).join("") : "");
     } else if (value === "=") {
       setResult(result ? eval(result) : result);
