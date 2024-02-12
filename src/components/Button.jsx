@@ -1,7 +1,7 @@
 import React from "react";
 
 const Button = ({ children, ...rest }) => {
-  //the children prop represents data between the button tags
+  //the children prop represents data between the button tag element
   return (
     <div
       onClick={() => rest.handler(children)}
