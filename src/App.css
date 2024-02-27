@@ -43,6 +43,7 @@ body {
   bottom: 5px;
 }
 
+//styles the button component
 .btn {
   text-align: center;
   background-color: rgb(89, 216, 131);
